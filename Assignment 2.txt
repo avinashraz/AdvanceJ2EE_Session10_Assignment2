@@ -1,0 +1,28 @@
+1) Define Database. 
+Ans:
+A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. In one view, databases can be classified according to types of content: bibliographic, full-text, numeric, and images.
+
+2) What is DBMS? 
+Ans:
+A database management system (DBMS) is system software for creating and managing databases. The DBMS provides users and programmers with a systematic way to create, retrieve, update and manage data.
+
+3) What are the various kinds of interactions catered by DBMS?
+Ans:
+The various kind of interactions catered by DBMS are:
+
+Data definition
+
+Update
+
+Retrieval
+
+Administration
+ 
+4) Segregate database technology’s development. 
+Ans:
+Users : Users may be of various type such as DB administrator, System developer and End users.
+Database application : Database application may be Personal, Departmental, Enterprise and Internal
+DBMS : Software that allow users to define, create and manages database access, Ex: MySql, Oracle etc.
+Database : Collection of logical data.
+
+5) Who proposed the relational model?
